@@ -7,7 +7,7 @@ import statsmodels.formula.api as sm
 
 
 #Indlæs datasæt. Husk at opdatere stien når du skifter mellem computere.
-df = pd.read_excel(r"C:\Course-in-programming\Data analysis project 1\Combined.xlsx")
+df = pd.read_excel(r"dataproject\Combined.xlsx")
 
 df.head()
 #We see in the head that there is a lot of missing data for Aruba. If we delve deeper into the dataset we will find that this is also the case for many other countries in the 20th century. 
