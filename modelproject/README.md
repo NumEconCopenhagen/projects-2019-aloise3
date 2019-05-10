@@ -1,3 +1,3 @@
 # Modelproject
 
-Should contain a short introduction to your project, and show how to produce your results.
+The project solves the steady state for a basic Solow model and a Solow model with technological advances. Furthermore I simulate an equilibrium path and display a plot showing the path.
