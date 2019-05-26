@@ -1,0 +1,60 @@
+1, dataproject:
+
+Hey! This is Eugene, team aloise 3.
+It is nice to read and comment on your works. Here is my comment:
+
+Figure 4, 5, 6, and 7 are amazing. Especially those colors of the boxes in figure 6 and 7 are stunning! The graphs show exactly what you wanted to show with the data.
+
+But unfortunately, I don't get the reason why you used swarm plot. It looks amazing but would be glad if there is any explanation about the graph in a more detailed way. Especially, it is quite hard to understand why the y-axis of Figure 1: government expenditure is secondary education.
+
+Speaking of what to change a bit, I also think you may have to use the other way of importing your excel data. i.e. you can put the datafile in the same folder where your .ipynb file is located, and use pd.read_excel("../dataproject/Combined.xlsx"). It is impossible for the reader to import data if you trace your data back to C: .
+
+I think the content is detailed enough and covers everything to be discussed on the topic. As an extra, you can group the countries in more various ways, i.e. by regional or historical criteria, as an extension of your work on total nations and non-OPEC nations. But again said, it is extra, so I would rather add more explanations and add minor things in the graph such as a unit for each axis.
+
+Wish you good luck with your model project too! :)
+
+2, dataproject:
+
+
+The best parts of the project were Figure1,2 and 3 especially. You distinguished each variables with different color plots. It is much easier for me to understand what each variables like.
+2.
+The hardest part of the project to understand for me was the introduction.
+I still didn't understand why you tried to use data whith so many missing values.
+3.
+An idea for an improvement could be that you add some more explanation of data you used.
+4.
+An idea for an extension could be: For me, it seems that the content of your data project is significantly nice. So you don't have to put more extensions.
+
+3, modelproject:
+
+The best part
+I like the last figure where you have simulated the solow model with data from the world bank
+The hardest part
+It is a pretty simple model, so it is okay to follow, and the commands are not difficult, as they resemble what Jeppe have gone through in class, but there is a clear lack of both explaining text and comments on the code. I have gotten the impression that the project should be understandable even without the code.
+Improvement
+I think you could have had some fun with some interactive plots and discuss the result for different cases of parameters. Where the base-case of course is your real-world data
+Extension
+The extension with technology is pretty limited. Maybe you should have looked to go a little further. At least done more simulations or base-cases.
+
+
+
+4, modelproject:
+
+1. The best part of the project was:
+It is nice that you solve the model and simulate given real WB parameters for Denmark. The last graph of the final result is also nice.
+
+2. The hardest part of the project to understand was:
+In general the notebook needs more comments and a more nice presentation. Start with a headline and have a short sentence explaining what the next bit of code do. It is hard to follow why you do some of your steps, given that the comments are very sparse.
+
+Try and see the notebook as a paper with code and results included. If you strip away the code and keep the results, the "paper" should still make some sense, but it is not the case here.
+
+Jeppe made an announcement pointing out the importance of commenting on the code. Try and give it a read before you hand-in this project for the final exam-portfolio. You do have some nice comments, but comment more on your code and results.
+
+3. A good idea for an improvement/clarification could be:
+The main thing to improve is the lack of comments.
+
+4. A good idea for an extension could be:
+The fourth minimum requirement for this project is to include an extension of the baseline model.
+
+Analyze one or more extensions of the baseline model
+You only solve the basic Solow model, so an extension could be to analyse the Solowmodel with human capital. Look at how the inclusion of the "h" chances the dynamics of the model.
